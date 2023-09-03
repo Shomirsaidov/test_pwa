@@ -3,6 +3,6 @@ module.exports = defineConfig({
   transpileDependencies: true,
   pwa: {
     name: "Instagram",
-    themeColor: "#000000"
+    themeColor: "#fff"
   }
 })
