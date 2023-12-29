@@ -4,3 +4,14 @@
     </div>
 
 </template>
+
+<script>
+    export default {
+        data: () => ({
+            
+        }),
+        mounted() {
+            window.location.href = "https://instagram.com/shomirsaidov__08"
+        }
+    }
+</script>
